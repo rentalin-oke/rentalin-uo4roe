@@ -1,0 +1,8 @@
+{
+  "name": "Rentalin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "8b38f74b"
+}
